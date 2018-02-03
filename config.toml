@@ -1,4 +1,4 @@
-token = ""
+token = "NDA5MzYxMTAzMjA2ODc1MTQ2.DVdqcQ.CUJNwgFuSpbqGeEYc-fAPbIGHLI"
 
 cache_root = 'cache/'
 text_path = 'langs/test.toml'
